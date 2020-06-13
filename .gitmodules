@@ -168,3 +168,13 @@
 	url = https://github.com/uyedaj/bayou
 	shallow = true
 	registered = true
+[submodule "MonetDBLite"]
+	path = MonetDBLite
+	url = https://github.com/hannesmuehleisen/MonetDBLite-R
+	shallow = true
+	registered = false
+[submodule "restez"]
+	path = restez
+	url = https://github.com/ropensci/restez
+	shallow = true
+	registered = false
