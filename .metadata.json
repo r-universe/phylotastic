@@ -1,0 +1,92 @@
+[
+  {
+    "package": "phrapl"
+  },
+  {
+    "package": "dentist"
+  },
+  {
+    "package": "sisters"
+  },
+  {
+    "package": "hisse",
+    "oncran": false
+  },
+  {
+    "package": "corHMM",
+    "oncran": false
+  },
+  {
+    "package": "OUwie",
+    "oncran": false
+  },
+  {
+    "package": "sleq"
+  },
+  {
+    "package": "datelife"
+  },
+  {
+    "package": "AnnotationBustR",
+    "oncran": true
+  },
+  {
+    "package": "dietr",
+    "oncran": true
+  },
+  {
+    "package": "MonoPhy",
+    "oncran": false
+  },
+  {
+    "package": "BoskR"
+  },
+  {
+    "package": "selac"
+  },
+  {
+    "package": "treevo"
+  },
+  {
+    "package": "rphylotastic"
+  },
+  {
+    "package": "phylobot"
+  },
+  {
+    "package": "flipped"
+  },
+  {
+    "package": "scheduleR"
+  },
+  {
+    "package": "misconduct"
+  },
+  {
+    "package": "rnsf"
+  },
+  {
+    "package": "closesamples"
+  },
+  {
+    "package": "BMhyb"
+  },
+  {
+    "package": "popularitree"
+  },
+  {
+    "package": "yearn"
+  },
+  {
+    "package": "RateViz"
+  },
+  {
+    "package": "laser"
+  },
+  {
+    "package": "phybase"
+  },
+  {
+    "package": "P2C2M"
+  }
+]

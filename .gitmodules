@@ -1,5 +1,145 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/phylotastic/universe
 	shallow = true
 	branch = HEAD
+[submodule "phrapl"]
+	path = phrapl
+	url = https://github.com/bomeara/phrapl
+	shallow = true
+	registered = true
+[submodule "dentist"]
+	path = dentist
+	url = https://github.com/bomeara/dentist
+	shallow = true
+	registered = true
+[submodule "sisters"]
+	path = sisters
+	url = https://github.com/bomeara/sisters
+	shallow = true
+	registered = true
+[submodule "hisse"]
+	path = hisse
+	url = https://github.com/thej022214/hisse
+	shallow = true
+	registered = true
+[submodule "corHMM"]
+	path = corHMM
+	url = https://github.com/thej022214/corHMM
+	shallow = true
+	registered = true
+[submodule "OUwie"]
+	path = OUwie
+	url = https://github.com/thej022214/OUwie
+	shallow = true
+	registered = true
+[submodule "sleq"]
+	path = sleq
+	url = https://github.com/bomeara/sleq
+	shallow = true
+	registered = true
+[submodule "datelife"]
+	path = datelife
+	url = https://github.com/phylotastic/datelife
+	shallow = true
+	registered = true
+[submodule "AnnotationBustR"]
+	path = AnnotationBustR
+	url = https://github.com/sborstein/AnnotationBustR
+	shallow = true
+	registered = true
+[submodule "dietr"]
+	path = dietr
+	url = https://github.com/sborstein/dietr
+	shallow = true
+	registered = true
+[submodule "MonoPhy"]
+	path = MonoPhy
+	url = https://github.com/oschwery/MonoPhy
+	shallow = true
+	registered = true
+[submodule "BoskR"]
+	path = BoskR
+	url = https://github.com/oschwery/BoskR
+	shallow = true
+	registered = true
+[submodule "selac"]
+	path = selac
+	url = https://github.com/bomeara/selac
+	shallow = true
+	registered = true
+[submodule "treevo"]
+	path = treevo
+	url = https://github.com/bomeara/treevo
+	shallow = true
+	registered = true
+[submodule "rphylotastic"]
+	path = rphylotastic
+	url = https://github.com/phylotastic/rphylotastic
+	shallow = true
+	registered = true
+[submodule "phylobot"]
+	path = phylobot
+	url = https://github.com/phylotastic/phylobot
+	shallow = true
+	registered = true
+[submodule "flipped"]
+	path = flipped
+	url = https://github.com/bomeara/flipped
+	shallow = true
+	registered = true
+[submodule "scheduleR"]
+	path = scheduleR
+	url = https://github.com/bomeara/scheduleR
+	shallow = true
+	registered = true
+[submodule "misconduct"]
+	path = misconduct
+	url = https://github.com/bomeara/misconduct
+	shallow = true
+	registered = true
+[submodule "rnsf"]
+	path = rnsf
+	url = https://github.com/bomeara/rnsf
+	shallow = true
+	registered = true
+[submodule "closesamples"]
+	path = closesamples
+	url = https://github.com/bomeara/closesamples
+	shallow = true
+	registered = true
+[submodule "BMhyb"]
+	path = BMhyb
+	url = https://github.com/bomeara/BMhyb
+	shallow = true
+	registered = true
+[submodule "popularitree"]
+	path = popularitree
+	url = https://github.com/bomeara/popularitree
+	shallow = true
+	registered = true
+[submodule "yearn"]
+	path = yearn
+	url = https://github.com/bomeara/yearn
+	shallow = true
+	registered = true
+[submodule "RateViz"]
+	path = RateViz
+	url = https://github.com/bomeara/RateViz
+	shallow = true
+	registered = true
+[submodule "laser"]
+	path = laser
+	url = https://github.com/cran/laser
+	shallow = true
+	registered = true
+[submodule "phybase"]
+	path = phybase
+	url = https://github.com/cran/phybase
+	shallow = true
+	registered = true
+[submodule "P2C2M"]
+	path = P2C2M
+	url = https://github.com/cran/P2C2M
+	shallow = true
+	registered = true
