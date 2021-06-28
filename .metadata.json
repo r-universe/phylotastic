@@ -60,9 +60,6 @@
     "package": "scheduleR"
   },
   {
-    "package": "misconduct"
-  },
-  {
     "package": "rnsf"
   },
   {
@@ -88,5 +85,28 @@
   },
   {
     "package": "P2C2M"
+  },
+  {
+    "package": "rotl",
+    "oncran": true
+  },
+  {
+    "package": "extendedSurface"
+  },
+  {
+    "package": "secsse",
+    "oncran": false
+  },
+  {
+    "package": "diversitree",
+    "oncran": false
+  },
+  {
+    "package": "geiger",
+    "oncran": true
+  },
+  {
+    "package": "phylobase",
+    "oncran": true
   }
 ]

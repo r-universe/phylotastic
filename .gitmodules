@@ -93,11 +93,6 @@
 	url = https://github.com/bomeara/scheduleR
 	shallow = true
 	registered = true
-[submodule "misconduct"]
-	path = misconduct
-	url = https://github.com/bomeara/misconduct
-	shallow = true
-	registered = true
 [submodule "rnsf"]
 	path = rnsf
 	url = https://github.com/bomeara/rnsf
@@ -141,5 +136,35 @@
 [submodule "P2C2M"]
 	path = P2C2M
 	url = https://github.com/cran/P2C2M
+	shallow = true
+	registered = true
+[submodule "rotl"]
+	path = rotl
+	url = https://github.com/ropensci/rotl
+	shallow = true
+	registered = true
+[submodule "extendedSurface"]
+	path = extendedSurface
+	url = https://github.com/mongiardino/extendedSurface
+	shallow = true
+	registered = true
+[submodule "secsse"]
+	path = secsse
+	url = https://github.com/rsetienne/secsse
+	shallow = true
+	registered = true
+[submodule "diversitree"]
+	path = diversitree
+	url = https://github.com/richfitz/diversitree
+	shallow = true
+	registered = true
+[submodule "geiger"]
+	path = geiger
+	url = https://github.com/mwpennell/geiger-v2
+	shallow = true
+	registered = true
+[submodule "phylobase"]
+	path = phylobase
+	url = https://github.com/fmichonneau/phylobase
 	shallow = true
 	registered = true
