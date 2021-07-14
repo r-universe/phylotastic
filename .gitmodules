@@ -168,3 +168,8 @@
 	url = https://github.com/fmichonneau/phylobase
 	shallow = true
 	registered = true
+[submodule "bayou"]
+	path = bayou
+	url = https://github.com/uyedaj/bayou
+	shallow = true
+	registered = true
