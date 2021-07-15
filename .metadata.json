@@ -94,10 +94,6 @@
     "package": "extendedSurface"
   },
   {
-    "package": "secsse",
-    "oncran": false
-  },
-  {
     "package": "diversitree",
     "oncran": false
   },

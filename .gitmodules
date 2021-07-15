@@ -148,11 +148,6 @@
 	url = https://github.com/mongiardino/extendedSurface
 	shallow = true
 	registered = true
-[submodule "secsse"]
-	path = secsse
-	url = https://github.com/rsetienne/secsse
-	shallow = true
-	registered = true
 [submodule "diversitree"]
 	path = diversitree
 	url = https://github.com/richfitz/diversitree
