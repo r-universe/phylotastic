@@ -31,8 +31,7 @@
     "oncran": true
   },
   {
-    "package": "dietr",
-    "oncran": true
+    "package": "dietr"
   },
   {
     "package": "MonoPhy",
