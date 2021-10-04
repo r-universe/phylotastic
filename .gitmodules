@@ -68,11 +68,6 @@
 	url = https://github.com/bomeara/selac
 	shallow = true
 	registered = true
-[submodule "treevo"]
-	path = treevo
-	url = https://github.com/bomeara/treevo
-	shallow = true
-	registered = true
 [submodule "rphylotastic"]
 	path = rphylotastic
 	url = https://github.com/phylotastic/rphylotastic
