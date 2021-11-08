@@ -88,9 +88,9 @@
 	url = https://github.com/bomeara/flipped
 	shallow = true
 	registered = true
-[submodule "scheduleR"]
-	path = scheduleR
-	url = https://github.com/bomeara/scheduleR
+[submodule "phylotaR"]
+	path = phylotaR
+	url = https://github.com/ropensci/phylotaR
 	shallow = true
 	registered = true
 [submodule "rnsf"]
