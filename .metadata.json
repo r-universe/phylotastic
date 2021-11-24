@@ -32,7 +32,7 @@
   },
   {
     "package": "dietr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "MonoPhy",
