@@ -107,5 +107,76 @@
   },
   {
     "package": "bayou"
+  },
+  {
+    "package": "FishPhyloMaker",
+    "oncran": false
+  },
+  {
+    "package": "FossilSim",
+    "oncran": false
+  },
+  {
+    "package": "RRphylo",
+    "oncran": false
+  },
+  {
+    "package": "Rphylopars",
+    "oncran": true
+  },
+  {
+    "package": "TreePar"
+  },
+  {
+    "package": "TreeSim",
+    "oncran": false
+  },
+  {
+    "package": "dispRity",
+    "oncran": true
+  },
+  {
+    "package": "evobiR",
+    "oncran": false
+  },
+  {
+    "package": "hillR",
+    "oncran": true
+  },
+  {
+    "package": "hilldiv",
+    "oncran": true
+  },
+  {
+    "package": "nichevol",
+    "oncran": true
+  },
+  {
+    "package": "nodeSub",
+    "oncran": true
+  },
+  {
+    "package": "pmc",
+    "oncran": true
+  },
+  {
+    "package": "ratematrix",
+    "oncran": true
+  },
+  {
+    "package": "secsse",
+    "oncran": false
+  },
+  {
+    "package": "sensiPhy",
+    "oncran": true
+  },
+  {
+    "package": "treedata.table",
+    "oncran": true
+  },
+  {
+    "package": "treeplyr",
+    "oncran": true
   }
 ]

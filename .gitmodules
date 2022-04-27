@@ -168,6 +168,96 @@
 	url = https://github.com/uyedaj/bayou
 	shallow = true
 	registered = true
+[submodule "FishPhyloMaker"]
+	path = FishPhyloMaker
+	url = https://github.com/GabrielNakamura/FishPhyloMaker
+	shallow = true
+	registered = true
+[submodule "FossilSim"]
+	path = FossilSim
+	url = https://github.com/fossilsim/fossilsim
+	shallow = true
+	registered = true
+[submodule "RRphylo"]
+	path = RRphylo
+	url = https://github.com/pasraia/RRphylo
+	shallow = true
+	registered = true
+[submodule "Rphylopars"]
+	path = Rphylopars
+	url = https://github.com/ericgoolsby/Rphylopars
+	shallow = true
+	registered = true
+[submodule "TreePar"]
+	path = TreePar
+	url = https://github.com/tanja819/TreePar
+	shallow = true
+	registered = true
+[submodule "TreeSim"]
+	path = TreeSim
+	url = https://github.com/tanja819/TreeSim
+	shallow = true
+	registered = true
+[submodule "dispRity"]
+	path = dispRity
+	url = https://github.com/TGuillerme/dispRity
+	shallow = true
+	registered = true
+[submodule "evobiR"]
+	path = evobiR
+	url = https://github.com/coleoguy/evobir
+	shallow = true
+	registered = true
+[submodule "hillR"]
+	path = hillR
+	url = https://github.com/daijiang/hillR
+	shallow = true
+	registered = true
+[submodule "hilldiv"]
+	path = hilldiv
+	url = https://github.com/anttonalberdi/hilldiv
+	shallow = true
+	registered = true
+[submodule "nichevol"]
+	path = nichevol
+	url = https://github.com/marlonecobos/nichevol
+	shallow = true
+	registered = true
+[submodule "nodeSub"]
+	path = nodeSub
+	url = https://github.com/thijsjanzen/nodeSub
+	shallow = true
+	registered = true
+[submodule "pmc"]
+	path = pmc
+	url = https://github.com/cboettig/pmc
+	shallow = true
+	registered = true
+[submodule "ratematrix"]
+	path = ratematrix
+	url = https://github.com/Caetanods/ratematrix
+	shallow = true
+	registered = true
+[submodule "secsse"]
+	path = secsse
+	url = https://github.com/rsetienne/secsse
+	shallow = true
+	registered = true
+[submodule "sensiPhy"]
+	path = sensiPhy
+	url = https://github.com/paternogbc/sensiPhy
+	shallow = true
+	registered = true
+[submodule "treedata.table"]
+	path = treedata.table
+	url = https://github.com/ropensci/treedata.table
+	shallow = true
+	registered = true
+[submodule "treeplyr"]
+	path = treeplyr
+	url = https://github.com/uyedaj/treeplyr
+	shallow = true
+	registered = true
 [submodule "MonetDBLite"]
 	path = MonetDBLite
 	url = https://github.com/hannesmuehleisen/MonetDBLite-R
