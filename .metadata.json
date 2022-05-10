@@ -99,7 +99,7 @@
   },
   {
     "package": "geiger",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "phylobase",
