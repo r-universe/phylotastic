@@ -152,8 +152,7 @@
     "oncran": true
   },
   {
-    "package": "nodeSub",
-    "oncran": true
+    "package": "nodeSub"
   },
   {
     "package": "pmc",
