@@ -12,7 +12,8 @@
     "package": "hisse"
   },
   {
-    "package": "corHMM"
+    "package": "corHMM",
+    "oncran": false
   },
   {
     "package": "OUwie"
