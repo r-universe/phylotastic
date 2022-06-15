@@ -16,7 +16,8 @@
     "oncran": false
   },
   {
-    "package": "OUwie"
+    "package": "OUwie",
+    "oncran": true
   },
   {
     "package": "sleq"
