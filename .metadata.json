@@ -24,7 +24,8 @@
     "package": "sleq"
   },
   {
-    "package": "datelife"
+    "package": "datelife",
+    "oncran": false
   },
   {
     "package": "AnnotationBustR",
