@@ -25,7 +25,7 @@
   },
   {
     "package": "datelife",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "AnnotationBustR",
