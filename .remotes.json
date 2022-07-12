@@ -1,11 +1,5 @@
 [
   {
-    "package": "MonetDBLite",
-    "url": "https://github.com/hannesmuehleisen/MonetDBLite-R",
-    "via": ["phylotaR", "restez"],
-    "from": "phylotaR"
-  },
-  {
     "package": "restez",
     "url": "https://github.com/ropensci/restez",
     "via": ["phylotaR"],
