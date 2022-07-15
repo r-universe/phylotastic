@@ -258,6 +258,11 @@
 	url = https://github.com/uyedaj/treeplyr
 	shallow = true
 	registered = true
+[submodule "phangorn"]
+	path = phangorn
+	url = https://github.com/KlausVigo/phangorn
+	shallow = true
+	registered = true
 [submodule "outsider"]
 	path = outsider
 	url = https://github.com/ropensci-archive/outsider

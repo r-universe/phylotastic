@@ -178,5 +178,9 @@
   {
     "package": "treeplyr",
     "oncran": true
+  },
+  {
+    "package": "phangorn",
+    "oncran": true
   }
 ]
