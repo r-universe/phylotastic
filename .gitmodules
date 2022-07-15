@@ -258,6 +258,16 @@
 	url = https://github.com/uyedaj/treeplyr
 	shallow = true
 	registered = true
+[submodule "outsider"]
+	path = outsider
+	url = https://github.com/ropensci-archive/outsider
+	shallow = true
+	registered = false
+[submodule "outsider.base"]
+	path = outsider.base
+	url = https://github.com/ropensci-archive/outsider.base
+	shallow = true
+	registered = false
 [submodule "restez"]
 	path = restez
 	url = https://github.com/ropensci/restez

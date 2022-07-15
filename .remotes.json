@@ -1,5 +1,17 @@
 [
   {
+    "package": "outsider",
+    "url": "https://github.com/ropensci-archive/outsider",
+    "via": ["phylotaR"],
+    "from": "phylotaR"
+  },
+  {
+    "package": "outsider.base",
+    "url": "https://github.com/ropensci-archive/outsider.base",
+    "via": ["phylotaR"],
+    "from": "phylotaR"
+  },
+  {
     "package": "restez",
     "url": "https://github.com/ropensci/restez",
     "via": ["phylotaR"],
