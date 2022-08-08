@@ -152,8 +152,7 @@
     "package": "nichevol"
   },
   {
-    "package": "nodeSub",
-    "oncran": true
+    "package": "nodeSub"
   },
   {
     "package": "pmc",
