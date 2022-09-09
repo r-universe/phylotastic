@@ -11,5 +11,11 @@
     "via": ["dispRity"],
     "branch": "no_fastdepth",
     "from": "dispRity"
+  },
+  {
+    "package": "treeman",
+    "url": "https://github.com/dombennett/treeman",
+    "via": ["phylotaR"],
+    "from": "phylotaR"
   }
 ]

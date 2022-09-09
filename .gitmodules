@@ -274,3 +274,8 @@
 	shallow = true
 	branch = no_fastdepth
 	registered = false
+[submodule "treeman"]
+	path = treeman
+	url = https://github.com/dombennett/treeman
+	shallow = true
+	registered = false
