@@ -33,7 +33,7 @@
   },
   {
     "package": "dietr",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "MonoPhy",
@@ -134,7 +134,7 @@
   },
   {
     "package": "dispRity",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "evobiR",
