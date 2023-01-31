@@ -263,6 +263,11 @@
 	url = https://github.com/KlausVigo/phangorn
 	shallow = true
 	registered = true
+[submodule "phylolm"]
+	path = phylolm
+	url = https://github.com/lamho86/phylolm
+	shallow = true
+	registered = true
 [submodule "restez"]
 	path = restez
 	url = https://github.com/ropensci/restez

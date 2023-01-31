@@ -182,5 +182,9 @@
   {
     "package": "phangorn",
     "oncran": true
+  },
+  {
+    "package": "phylolm",
+    "oncran": true
   }
 ]
