@@ -210,5 +210,40 @@
   {
     "package": "aphylo",
     "oncran": true
+  },
+  {
+    "package": "BAMMtools",
+    "oncran": false
+  },
+  {
+    "package": "beastier",
+    "oncran": true
+  },
+  {
+    "package": "beautier",
+    "oncran": true
+  },
+  {
+    "package": "bmrs"
+  },
+  {
+    "package": "brranching",
+    "oncran": true
+  },
+  {
+    "package": "CALANGO",
+    "oncran": false
+  },
+  {
+    "package": "Claddis",
+    "oncran": false
+  },
+  {
+    "package": "DAMOCLES",
+    "oncran": false
+  },
+  {
+    "package": "deeptime",
+    "oncran": false
   }
 ]

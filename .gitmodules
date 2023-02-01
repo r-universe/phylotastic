@@ -298,6 +298,51 @@
 	url = https://github.com/USCbiostats/aphylo
 	shallow = true
 	registered = true
+[submodule "BAMMtools"]
+	path = BAMMtools
+	url = https://github.com/macroevolution/bammtools
+	shallow = true
+	registered = true
+[submodule "beastier"]
+	path = beastier
+	url = https://github.com/ropensci/beastier
+	shallow = true
+	registered = true
+[submodule "beautier"]
+	path = beautier
+	url = https://github.com/ropensci/beautier
+	shallow = true
+	registered = true
+[submodule "bmrs"]
+	path = bmrs
+	url = https://github.com/paul-buerkner/brms
+	shallow = true
+	registered = true
+[submodule "brranching"]
+	path = brranching
+	url = https://github.com/ropensci/brranching
+	shallow = true
+	registered = true
+[submodule "CALANGO"]
+	path = CALANGO
+	url = https://github.com/LABpackages/CALANGO
+	shallow = true
+	registered = true
+[submodule "Claddis"]
+	path = Claddis
+	url = https://github.com/graemetlloyd/Claddis
+	shallow = true
+	registered = true
+[submodule "DAMOCLES"]
+	path = DAMOCLES
+	url = https://github.com/rsetienne/DAMOCLES
+	shallow = true
+	registered = true
+[submodule "deeptime"]
+	path = deeptime
+	url = https://williamgearty.com/deeptime
+	shallow = true
+	registered = true
 [submodule "restez"]
 	path = restez
 	url = https://github.com/ropensci/restez
