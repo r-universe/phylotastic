@@ -186,5 +186,29 @@
   {
     "package": "phylolm",
     "oncran": true
+  },
+  {
+    "package": "phytools",
+    "oncran": true
+  },
+  {
+    "package": "ape",
+    "oncran": false
+  },
+  {
+    "package": "adephylo",
+    "oncran": false
+  },
+  {
+    "package": "apex",
+    "oncran": true
+  },
+  {
+    "package": "aphid",
+    "oncran": true
+  },
+  {
+    "package": "aphylo",
+    "oncran": true
   }
 ]

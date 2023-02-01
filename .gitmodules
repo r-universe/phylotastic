@@ -268,6 +268,36 @@
 	url = https://github.com/lamho86/phylolm
 	shallow = true
 	registered = true
+[submodule "phytools"]
+	path = phytools
+	url = https://github.com/liamrevell/phytools
+	shallow = true
+	registered = true
+[submodule "ape"]
+	path = ape
+	url = https://github.com/emmanuelparadis/ape
+	shallow = true
+	registered = true
+[submodule "adephylo"]
+	path = adephylo
+	url = https://github.com/thibautjombart/adephylo
+	shallow = true
+	registered = true
+[submodule "apex"]
+	path = apex
+	url = https://github.com/thibautjombart/apex
+	shallow = true
+	registered = true
+[submodule "aphid"]
+	path = aphid
+	url = https://github.com/shaunpwilkinson/aphid
+	shallow = true
+	registered = true
+[submodule "aphylo"]
+	path = aphylo
+	url = https://github.com/USCbiostats/aphylo
+	shallow = true
+	registered = true
 [submodule "restez"]
 	path = restez
 	url = https://github.com/ropensci/restez
