@@ -9,8 +9,7 @@
     "package": "sisters"
   },
   {
-    "package": "hisse",
-    "oncran": false
+    "package": "hisse"
   },
   {
     "package": "corHMM",
