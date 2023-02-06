@@ -33,11 +33,6 @@
 	url = https://github.com/thej022214/OUwie
 	shallow = true
 	registered = true
-[submodule "sleq"]
-	path = sleq
-	url = https://github.com/bomeara/sleq
-	shallow = true
-	registered = true
 [submodule "datelife"]
 	path = datelife
 	url = https://github.com/phylotastic/datelife
@@ -93,11 +88,6 @@
 	url = https://github.com/ropensci/phylotaR
 	shallow = true
 	registered = true
-[submodule "rnsf"]
-	path = rnsf
-	url = https://github.com/bomeara/rnsf
-	shallow = true
-	registered = true
 [submodule "closesamples"]
 	path = closesamples
 	url = https://github.com/bomeara/closesamples
@@ -111,11 +101,6 @@
 [submodule "popularitree"]
 	path = popularitree
 	url = https://github.com/bomeara/popularitree
-	shallow = true
-	registered = true
-[submodule "yearn"]
-	path = yearn
-	url = https://github.com/bomeara/yearn
 	shallow = true
 	registered = true
 [submodule "RateViz"]
