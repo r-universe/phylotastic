@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/phylotastic/universe
+	url = https://github.com/phylotastic/phylotastic.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "phrapl"]
