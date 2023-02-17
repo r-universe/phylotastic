@@ -333,6 +333,11 @@
 	url = https://github.com/ropensci/restez
 	shallow = true
 	registered = false
+[submodule "rfishbase"]
+	path = rfishbase
+	url = https://github.com/ropensci/rfishbase
+	shallow = true
+	registered = false
 [submodule "spptest"]
 	path = spptest
 	url = https://github.com/myllym/spptest

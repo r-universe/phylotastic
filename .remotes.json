@@ -6,6 +6,12 @@
     "from": "phylotaR"
   },
   {
+    "package": "rfishbase",
+    "url": "https://github.com/ropensci/rfishbase",
+    "via": ["FishPhyloMaker"],
+    "from": "FishPhyloMaker"
+  },
+  {
     "package": "spptest",
     "url": "https://github.com/myllym/spptest",
     "via": ["dispRity"],
