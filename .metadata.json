@@ -21,8 +21,7 @@
     "oncran": true
   },
   {
-    "package": "datelife",
-    "oncran": true
+    "package": "datelife"
   },
   {
     "package": "AnnotationBustR",
@@ -218,8 +217,7 @@
     "package": "bmrs"
   },
   {
-    "package": "brranching",
-    "oncran": true
+    "package": "brranching"
   },
   {
     "package": "CALANGO",
