@@ -139,7 +139,8 @@
     "oncran": true
   },
   {
-    "package": "nichevol"
+    "package": "nichevol",
+    "oncran": false
   },
   {
     "package": "nodeSub",
