@@ -10,11 +10,11 @@
   },
   {
     "package": "hisse",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "corHMM",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "OUwie",
@@ -33,7 +33,7 @@
   },
   {
     "package": "MonoPhy",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "BoskR"
@@ -86,7 +86,7 @@
   },
   {
     "package": "diversitree",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "geiger",
@@ -101,7 +101,7 @@
   },
   {
     "package": "FishPhyloMaker",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "FossilSim",
@@ -128,7 +128,7 @@
   },
   {
     "package": "evobiR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "hillR",
@@ -156,7 +156,7 @@
   },
   {
     "package": "secsse",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "sensiPhy",
@@ -225,11 +225,11 @@
   },
   {
     "package": "Claddis",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "DAMOCLES",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "deeptime",
