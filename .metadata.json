@@ -9,31 +9,25 @@
     "package": "sisters"
   },
   {
-    "package": "hisse",
-    "oncran": true
+    "package": "hisse"
   },
   {
-    "package": "corHMM",
-    "oncran": true
+    "package": "corHMM"
   },
   {
-    "package": "OUwie",
-    "oncran": true
+    "package": "OUwie"
   },
   {
     "package": "datelife"
   },
   {
-    "package": "AnnotationBustR",
-    "oncran": true
+    "package": "AnnotationBustR"
   },
   {
-    "package": "dietr",
-    "oncran": true
+    "package": "dietr"
   },
   {
-    "package": "MonoPhy",
-    "oncran": true
+    "package": "MonoPhy"
   },
   {
     "package": "BoskR"
@@ -78,140 +72,109 @@
     "package": "P2C2M"
   },
   {
-    "package": "rotl",
-    "oncran": true
+    "package": "rotl"
   },
   {
     "package": "extendedSurface"
   },
   {
-    "package": "diversitree",
-    "oncran": true
+    "package": "diversitree"
   },
   {
-    "package": "geiger",
-    "oncran": false
+    "package": "geiger"
   },
   {
-    "package": "phylobase",
-    "oncran": true
+    "package": "phylobase"
   },
   {
     "package": "bayou"
   },
   {
-    "package": "FishPhyloMaker",
-    "oncran": true
+    "package": "FishPhyloMaker"
   },
   {
-    "package": "FossilSim",
-    "oncran": false
+    "package": "FossilSim"
   },
   {
-    "package": "RRphylo",
-    "oncran": false
+    "package": "RRphylo"
   },
   {
-    "package": "Rphylopars",
-    "oncran": true
+    "package": "Rphylopars"
   },
   {
     "package": "TreePar"
   },
   {
-    "package": "TreeSim",
-    "oncran": false
+    "package": "TreeSim"
   },
   {
-    "package": "dispRity",
-    "oncran": true
+    "package": "dispRity"
   },
   {
-    "package": "evobiR",
-    "oncran": true
+    "package": "evobiR"
   },
   {
-    "package": "hillR",
-    "oncran": true
+    "package": "hillR"
   },
   {
-    "package": "hilldiv",
-    "oncran": true
+    "package": "hilldiv"
   },
   {
-    "package": "nichevol",
-    "oncran": true
+    "package": "nichevol"
   },
   {
-    "package": "nodeSub",
-    "oncran": true
+    "package": "nodeSub"
   },
   {
-    "package": "pmc",
-    "oncran": true
+    "package": "pmc"
   },
   {
-    "package": "ratematrix",
-    "oncran": true
+    "package": "ratematrix"
   },
   {
-    "package": "secsse",
-    "oncran": true
+    "package": "secsse"
   },
   {
-    "package": "sensiPhy",
-    "oncran": true
+    "package": "sensiPhy"
   },
   {
-    "package": "treedata.table",
-    "oncran": true
+    "package": "treedata.table"
   },
   {
     "package": "treeplyr"
   },
   {
-    "package": "phangorn",
-    "oncran": true
+    "package": "phangorn"
   },
   {
-    "package": "phylolm",
-    "oncran": true
+    "package": "phylolm"
   },
   {
-    "package": "phytools",
-    "oncran": true
+    "package": "phytools"
   },
   {
-    "package": "ape",
-    "oncran": true
+    "package": "ape"
   },
   {
-    "package": "adephylo",
-    "oncran": false
+    "package": "adephylo"
   },
   {
-    "package": "apex",
-    "oncran": true
+    "package": "apex"
   },
   {
-    "package": "aphid",
-    "oncran": true
+    "package": "aphid"
   },
   {
-    "package": "aphylo",
-    "oncran": true
+    "package": "aphylo"
   },
   {
-    "package": "BAMMtools",
-    "oncran": false
+    "package": "BAMMtools"
   },
   {
-    "package": "beastier",
-    "oncran": true
+    "package": "beastier"
   },
   {
-    "package": "beautier",
-    "oncran": true
+    "package": "beautier"
   },
   {
     "package": "bmrs"
@@ -220,19 +183,15 @@
     "package": "brranching"
   },
   {
-    "package": "CALANGO",
-    "oncran": false
+    "package": "CALANGO"
   },
   {
-    "package": "Claddis",
-    "oncran": true
+    "package": "Claddis"
   },
   {
-    "package": "DAMOCLES",
-    "oncran": true
+    "package": "DAMOCLES"
   },
   {
-    "package": "deeptime",
-    "oncran": false
+    "package": "deeptime"
   }
 ]
