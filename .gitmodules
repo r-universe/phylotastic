@@ -148,6 +148,11 @@
 	url = https://github.com/fmichonneau/phylobase
 	shallow = true
 	registered = true
+[submodule "phylocomr"]
+	path = phylocomr
+	url = https://github.com/ropensci/phylocomr
+	shallow = true
+	registered = true
 [submodule "bayou"]
 	path = bayou
 	url = https://github.com/uyedaj/bayou
@@ -326,6 +331,76 @@
 [submodule "deeptime"]
 	path = deeptime
 	url = https://williamgearty.com/deeptime
+	shallow = true
+	registered = true
+[submodule "dendextend"]
+	path = dendextend
+	url = https://github.com/talgalili/dendextend
+	shallow = true
+	registered = true
+[submodule "entropart"]
+	path = entropart
+	url = https://github.com/EricMarcon/entropart
+	shallow = true
+	registered = true
+[submodule "epm"]
+	path = epm
+	url = https://github.com/ptitle/epm
+	shallow = true
+	registered = true
+[submodule "EvoPhylo"]
+	path = EvoPhylo
+	url = https://github.com/tiago-simoes/EvoPhylo
+	shallow = true
+	registered = true
+[submodule "geomorph"]
+	path = geomorph
+	url = https://github.com/geomorphR/geomorph
+	shallow = true
+	registered = true
+[submodule "idendr0"]
+	path = idendr0
+	url = http://github.com/tsieger/idendr0
+	shallow = true
+	registered = true
+[submodule "ips"]
+	path = ips
+	url = https://github.com/heibl/ips
+	shallow = true
+	registered = true
+[submodule "MCMCglmm"]
+	path = MCMCglmm
+	url = https://github.com/jarrodhadfield/MCMCglmm
+	shallow = true
+	registered = true
+[submodule "mvMORPH"]
+	path = mvMORPH
+	url = https://github.com/JClavel/mvMORPH
+	shallow = true
+	registered = true
+[submodule "ouch"]
+	path = ouch
+	url = https://github.com/kingaa/ouch
+	shallow = true
+	registered = true
+[submodule "paleobuddy"]
+	path = paleobuddy
+	url = https://github.com/brpetrucci/paleobuddy
+	shallow = true
+	registered = true
+[submodule "paleotree"]
+	path = paleotree
+	url = https://github.com/dwbapst/paleotree
+	shallow = true
+	registered = true
+[submodule "paleoTS"]
+	path = paleoTS
+	url = https://github.com/cran/paleoTS
+	shallow = true
+	registered = true
+[submodule "phyclust"]
+	path = phyclust
+	url = https://github.com/snoweye/phyclust
 	shallow = true
 	registered = true
 [submodule "restez"]
