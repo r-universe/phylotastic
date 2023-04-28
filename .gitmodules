@@ -503,12 +503,6 @@
 	url = https://github.com/ropensci/rfishbase
 	shallow = true
 	registered = false
-[submodule "spptest"]
-	path = spptest
-	url = https://github.com/myllym/spptest
-	shallow = true
-	branch = no_fastdepth
-	registered = false
 [submodule "treeman"]
 	path = treeman
 	url = https://github.com/dombennett/treeman
