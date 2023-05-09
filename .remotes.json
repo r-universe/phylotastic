@@ -1,5 +1,11 @@
 [
   {
+    "package": "ape",
+    "url": "https://github.com/emmanuelparadis/ape",
+    "via": ["phangorn"],
+    "from": "phangorn"
+  },
+  {
     "package": "restez",
     "url": "https://github.com/ropensci/restez",
     "via": ["phylotaR"],
