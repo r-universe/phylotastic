@@ -63,9 +63,19 @@
 	url = https://github.com/bomeara/selac
 	shallow = true
 	registered = true
+[submodule "treevo"]
+	path = treevo
+	url = https://github.com/bomeara/treevo
+	shallow = true
+	registered = true
 [submodule "rphylotastic"]
 	path = rphylotastic
 	url = https://github.com/phylotastic/rphylotastic
+	shallow = true
+	registered = true
+[submodule "phylobot"]
+	path = phylobot
+	url = https://github.com/phylotastic/phylobot
 	shallow = true
 	registered = true
 [submodule "flipped"]
@@ -76,6 +86,16 @@
 [submodule "phylotaR"]
 	path = phylotaR
 	url = https://github.com/ropensci/phylotaR
+	shallow = true
+	registered = true
+[submodule "closesamples"]
+	path = closesamples
+	url = https://github.com/bomeara/closesamples
+	shallow = true
+	registered = true
+[submodule "BMhyb"]
+	path = BMhyb
+	url = https://github.com/bomeara/BMhyb
 	shallow = true
 	registered = true
 [submodule "popularitree"]
@@ -96,6 +116,11 @@
 [submodule "phybase"]
 	path = phybase
 	url = https://github.com/cran/phybase
+	shallow = true
+	registered = true
+[submodule "P2C2M"]
+	path = P2C2M
+	url = https://github.com/cran/P2C2M
 	shallow = true
 	registered = true
 [submodule "rotl"]
@@ -143,6 +168,11 @@
 	url = https://github.com/fossilsim/fossilsim
 	shallow = true
 	registered = true
+[submodule "RRphylo"]
+	path = RRphylo
+	url = https://github.com/pasraia/RRphylo
+	shallow = true
+	registered = true
 [submodule "Rphylopars"]
 	path = Rphylopars
 	url = https://github.com/ericgoolsby/Rphylopars
@@ -168,9 +198,24 @@
 	url = https://github.com/coleoguy/evobir
 	shallow = true
 	registered = true
+[submodule "hillR"]
+	path = hillR
+	url = https://github.com/daijiang/hillR
+	shallow = true
+	registered = true
+[submodule "hilldiv"]
+	path = hilldiv
+	url = https://github.com/anttonalberdi/hilldiv
+	shallow = true
+	registered = true
 [submodule "nichevol"]
 	path = nichevol
 	url = https://github.com/marlonecobos/nichevol
+	shallow = true
+	registered = true
+[submodule "nodeSub"]
+	path = nodeSub
+	url = https://github.com/thijsjanzen/nodeSub
 	shallow = true
 	registered = true
 [submodule "pmc"]
@@ -233,9 +278,19 @@
 	url = https://github.com/thibautjombart/apex
 	shallow = true
 	registered = true
+[submodule "aphid"]
+	path = aphid
+	url = https://github.com/shaunpwilkinson/aphid
+	shallow = true
+	registered = true
+[submodule "aphylo"]
+	path = aphylo
+	url = https://github.com/USCbiostats/aphylo
+	shallow = true
+	registered = true
 [submodule "BAMMtools"]
 	path = BAMMtools
-	url = https://github.com/macroevolution/bammtools
+	url = https://github.com/macroevolution/bammtools/tree/master/BAMMtools
 	shallow = true
 	registered = true
 [submodule "beastier"]
@@ -248,8 +303,8 @@
 	url = https://github.com/ropensci/beautier
 	shallow = true
 	registered = true
-[submodule "bmrs"]
-	path = bmrs
+[submodule "brms"]
+	path = brms
 	url = https://github.com/paul-buerkner/brms
 	shallow = true
 	registered = true
@@ -288,6 +343,11 @@
 	url = https://github.com/talgalili/dendextend
 	shallow = true
 	registered = true
+[submodule "entropart"]
+	path = entropart
+	url = https://github.com/EricMarcon/entropart
+	shallow = true
+	registered = true
 [submodule "epm"]
 	path = epm
 	url = https://github.com/ptitle/epm
@@ -303,13 +363,18 @@
 	url = https://github.com/geomorphR/geomorph
 	shallow = true
 	registered = true
+[submodule "idendr0"]
+	path = idendr0
+	url = http://github.com/tsieger/idendr0
+	shallow = true
+	registered = true
 [submodule "ips"]
 	path = ips
 	url = https://github.com/heibl/ips
 	shallow = true
 	registered = true
-[submodule "mcc3r"]
-	path = mcc3r
+[submodule "mcmc3r"]
+	path = mcmc3r
 	url = https://github.com/dosreislab/mcmc3r
 	shallow = true
 	registered = true
@@ -348,6 +413,11 @@
 	url = https://github.com/snoweye/phyclust
 	shallow = true
 	registered = true
+[submodule "phylocanvas"]
+	path = phylocanvas
+	url = https://github.com/zachcp/phylocanvas
+	shallow = true
+	registered = true
 [submodule "phyloclim"]
 	path = phyloclim
 	url = https://github.com/heibl/phyloclim
@@ -378,8 +448,8 @@
 	url = https://github.com/helixcn/phylotools
 	shallow = true
 	registered = true
-[submodule "phylotop"]
-	path = phylotop
+[submodule "phyloTop"]
+	path = phyloTop
 	url = https://github.com/MichelleKendall/phyloTop
 	shallow = true
 	registered = true
@@ -398,8 +468,8 @@
 	url = https://github.com/revbayes/RevGadgets
 	shallow = true
 	registered = true
-[submodule "Reviculate"]
-	path = Reviculate
+[submodule "Revticulate"]
+	path = Revticulate
 	url = https://github.com/revbayes/Revticulate
 	shallow = true
 	registered = true
@@ -491,6 +561,11 @@
 [submodule "vegan"]
 	path = vegan
 	url = https://github.com/vegandevs/vegan
+	shallow = true
+	registered = true
+[submodule "windex"]
+	path = windex
+	url = https://github.com/kevinarbuckle/windex
 	shallow = true
 	registered = true
 [submodule "restez"]
