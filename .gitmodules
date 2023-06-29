@@ -1,580 +1,352 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/phylotastic/phylotastic.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "phrapl"]
 	path = phrapl
 	url = https://github.com/bomeara/phrapl
-	shallow = true
-	registered = true
 [submodule "dentist"]
 	path = dentist
 	url = https://github.com/bomeara/dentist
-	shallow = true
-	registered = true
 [submodule "sisters"]
 	path = sisters
 	url = https://github.com/bomeara/sisters
-	shallow = true
-	registered = true
 [submodule "hisse"]
 	path = hisse
 	url = https://github.com/thej022214/hisse
-	shallow = true
-	registered = true
 [submodule "corHMM"]
 	path = corHMM
 	url = https://github.com/thej022214/corHMM
-	shallow = true
-	registered = true
 [submodule "OUwie"]
 	path = OUwie
 	url = https://github.com/thej022214/OUwie
-	shallow = true
-	registered = true
 [submodule "datelife"]
 	path = datelife
 	url = https://github.com/phylotastic/datelife
-	shallow = true
-	registered = true
 [submodule "AnnotationBustR"]
 	path = AnnotationBustR
 	url = https://github.com/sborstein/AnnotationBustR
-	shallow = true
-	registered = true
 [submodule "dietr"]
 	path = dietr
 	url = https://github.com/sborstein/dietr
-	shallow = true
-	registered = true
 [submodule "MonoPhy"]
 	path = MonoPhy
 	url = https://github.com/oschwery/MonoPhy
-	shallow = true
-	registered = true
 [submodule "BoskR"]
 	path = BoskR
 	url = https://github.com/oschwery/BoskR
-	shallow = true
-	registered = true
 [submodule "selac"]
 	path = selac
 	url = https://github.com/bomeara/selac
-	shallow = true
-	registered = true
 [submodule "TreEvo"]
 	path = TreEvo
 	url = https://github.com/bomeara/treevo
-	shallow = true
-	registered = true
 [submodule "rphylotastic"]
 	path = rphylotastic
 	url = https://github.com/phylotastic/rphylotastic
-	shallow = true
-	registered = true
 [submodule "flipped"]
 	path = flipped
 	url = https://github.com/bomeara/flipped
-	shallow = true
-	registered = true
 [submodule "phylotaR"]
 	path = phylotaR
 	url = https://github.com/ropensci/phylotaR
-	shallow = true
-	registered = true
 [submodule "closesamples"]
 	path = closesamples
 	url = https://github.com/bomeara/closesamples
-	shallow = true
-	registered = true
 [submodule "BMhyb"]
 	path = BMhyb
 	url = https://github.com/bomeara/BMhyb
-	shallow = true
-	registered = true
 [submodule "popularitree"]
 	path = popularitree
 	url = https://github.com/bomeara/popularitree
-	shallow = true
-	registered = true
 [submodule "RateViz"]
 	path = RateViz
 	url = https://github.com/bomeara/RateViz
-	shallow = true
-	registered = true
 [submodule "laser"]
 	path = laser
 	url = https://github.com/cran/laser
-	shallow = true
-	registered = true
 [submodule "phybase"]
 	path = phybase
 	url = https://github.com/cran/phybase
-	shallow = true
-	registered = true
 [submodule "P2C2M"]
 	path = P2C2M
 	url = https://github.com/cran/P2C2M
-	shallow = true
-	registered = true
 [submodule "rotl"]
 	path = rotl
 	url = https://github.com/ropensci/rotl
-	shallow = true
-	registered = true
 [submodule "extendedSurface"]
 	path = extendedSurface
 	url = https://github.com/mongiardino/extendedSurface
-	shallow = true
-	registered = true
 [submodule "diversitree"]
 	path = diversitree
 	url = https://github.com/richfitz/diversitree
-	shallow = true
-	registered = true
 [submodule "geiger"]
 	path = geiger
 	url = https://github.com/mwpennell/geiger-v2
-	shallow = true
-	registered = true
 [submodule "phylobase"]
 	path = phylobase
 	url = https://github.com/fmichonneau/phylobase
-	shallow = true
-	registered = true
 [submodule "phylocomr"]
 	path = phylocomr
 	url = https://github.com/ropensci/phylocomr
-	shallow = true
-	registered = true
 [submodule "bayou"]
 	path = bayou
 	url = https://github.com/uyedaj/bayou
-	shallow = true
-	registered = true
 [submodule "FishPhyloMaker"]
 	path = FishPhyloMaker
 	url = https://github.com/GabrielNakamura/FishPhyloMaker
-	shallow = true
-	registered = true
 [submodule "FossilSim"]
 	path = FossilSim
 	url = https://github.com/fossilsim/fossilsim
-	shallow = true
-	registered = true
 [submodule "RRphylo"]
 	path = RRphylo
 	url = https://github.com/pasraia/RRphylo
-	shallow = true
-	registered = true
 [submodule "Rphylopars"]
 	path = Rphylopars
 	url = https://github.com/ericgoolsby/Rphylopars
-	shallow = true
-	registered = true
 [submodule "TreePar"]
 	path = TreePar
 	url = https://github.com/tanja819/TreePar
-	shallow = true
-	registered = true
 [submodule "TreeSim"]
 	path = TreeSim
 	url = https://github.com/tanja819/TreeSim
-	shallow = true
-	registered = true
 [submodule "dispRity"]
 	path = dispRity
 	url = https://github.com/TGuillerme/dispRity
-	shallow = true
-	registered = true
 [submodule "evobiR"]
 	path = evobiR
 	url = https://github.com/coleoguy/evobir
-	shallow = true
-	registered = true
 [submodule "hillR"]
 	path = hillR
 	url = https://github.com/daijiang/hillR
-	shallow = true
-	registered = true
 [submodule "hilldiv"]
 	path = hilldiv
 	url = https://github.com/anttonalberdi/hilldiv
-	shallow = true
-	registered = true
 [submodule "nichevol"]
 	path = nichevol
 	url = https://github.com/marlonecobos/nichevol
-	shallow = true
-	registered = true
 [submodule "nodeSub"]
 	path = nodeSub
 	url = https://github.com/thijsjanzen/nodeSub
-	shallow = true
-	registered = true
 [submodule "pmc"]
 	path = pmc
 	url = https://github.com/cboettig/pmc
-	shallow = true
-	registered = true
 [submodule "ratematrix"]
 	path = ratematrix
 	url = https://github.com/Caetanods/ratematrix
-	shallow = true
-	registered = true
 [submodule "secsse"]
 	path = secsse
 	url = https://github.com/rsetienne/secsse
-	shallow = true
-	registered = true
 [submodule "sensiPhy"]
 	path = sensiPhy
 	url = https://github.com/paternogbc/sensiPhy
-	shallow = true
-	registered = true
 [submodule "treedata.table"]
 	path = treedata.table
 	url = https://github.com/ropensci/treedata.table
-	shallow = true
-	registered = true
 [submodule "treeplyr"]
 	path = treeplyr
 	url = https://github.com/uyedaj/treeplyr
-	shallow = true
-	registered = true
 [submodule "phangorn"]
 	path = phangorn
 	url = https://github.com/KlausVigo/phangorn
-	shallow = true
-	registered = true
 [submodule "phylolm"]
 	path = phylolm
 	url = https://github.com/lamho86/phylolm
-	shallow = true
-	registered = true
 [submodule "phytools"]
 	path = phytools
 	url = https://github.com/liamrevell/phytools
-	shallow = true
-	registered = true
 [submodule "ape"]
 	path = ape
 	url = https://github.com/emmanuelparadis/ape
-	shallow = true
-	registered = true
 [submodule "adephylo"]
 	path = adephylo
 	url = https://github.com/thibautjombart/adephylo
-	shallow = true
-	registered = true
 [submodule "apex"]
 	path = apex
 	url = https://github.com/thibautjombart/apex
-	shallow = true
-	registered = true
 [submodule "aphid"]
 	path = aphid
 	url = https://github.com/shaunpwilkinson/aphid
-	shallow = true
-	registered = true
 [submodule "aphylo"]
 	path = aphylo
 	url = https://github.com/USCbiostats/aphylo
-	shallow = true
-	registered = true
 [submodule "BAMMtools"]
 	path = BAMMtools
 	url = https://github.com/macroevolution/bammtools/tree/master/BAMMtools
-	shallow = true
-	registered = true
 [submodule "beastier"]
 	path = beastier
 	url = https://github.com/ropensci/beastier
-	shallow = true
-	registered = true
 [submodule "beautier"]
 	path = beautier
 	url = https://github.com/ropensci/beautier
-	shallow = true
-	registered = true
 [submodule "brms"]
 	path = brms
 	url = https://github.com/paul-buerkner/brms
-	shallow = true
-	registered = true
 [submodule "bppr"]
 	path = bppr
 	url = https://github.com/dosreislab/bppr
-	shallow = true
-	registered = true
 [submodule "brranching"]
 	path = brranching
 	url = https://github.com/ropensci/brranching
-	shallow = true
-	registered = true
 [submodule "CALANGO"]
 	path = CALANGO
 	url = https://github.com/LABpackages/CALANGO
-	shallow = true
-	registered = true
 [submodule "Claddis"]
 	path = Claddis
 	url = https://github.com/graemetlloyd/Claddis
-	shallow = true
-	registered = true
 [submodule "DAMOCLES"]
 	path = DAMOCLES
 	url = https://github.com/rsetienne/DAMOCLES
-	shallow = true
-	registered = true
 [submodule "deeptime"]
 	path = deeptime
 	url = https://williamgearty.com/deeptime
-	shallow = true
-	registered = true
 [submodule "dendextend"]
 	path = dendextend
 	url = https://github.com/talgalili/dendextend
-	shallow = true
-	registered = true
 [submodule "entropart"]
 	path = entropart
 	url = https://github.com/EricMarcon/entropart
-	shallow = true
-	registered = true
 [submodule "epm"]
 	path = epm
 	url = https://github.com/ptitle/epm
-	shallow = true
-	registered = true
 [submodule "EvoPhylo"]
 	path = EvoPhylo
 	url = https://github.com/tiago-simoes/EvoPhylo
-	shallow = true
-	registered = true
 [submodule "geomorph"]
 	path = geomorph
 	url = https://github.com/geomorphR/geomorph
-	shallow = true
-	registered = true
 [submodule "idendr0"]
 	path = idendr0
 	url = http://github.com/tsieger/idendr0
-	shallow = true
-	registered = true
 [submodule "ips"]
 	path = ips
 	url = https://github.com/heibl/ips
-	shallow = true
-	registered = true
 [submodule "mcmc3r"]
 	path = mcmc3r
 	url = https://github.com/dosreislab/mcmc3r
-	shallow = true
-	registered = true
 [submodule "MCMCglmm"]
 	path = MCMCglmm
 	url = https://github.com/jarrodhadfield/MCMCglmm
-	shallow = true
-	registered = true
 [submodule "mvMORPH"]
 	path = mvMORPH
 	url = https://github.com/JClavel/mvMORPH
-	shallow = true
-	registered = true
 [submodule "ouch"]
 	path = ouch
 	url = https://github.com/kingaa/ouch
-	shallow = true
-	registered = true
 [submodule "paleobuddy"]
 	path = paleobuddy
 	url = https://github.com/brpetrucci/paleobuddy
-	shallow = true
-	registered = true
 [submodule "paleotree"]
 	path = paleotree
 	url = https://github.com/dwbapst/paleotree
-	shallow = true
-	registered = true
 [submodule "paleoTS"]
 	path = paleoTS
 	url = https://github.com/cran/paleoTS
-	shallow = true
-	registered = true
 [submodule "phyclust"]
 	path = phyclust
 	url = https://github.com/snoweye/phyclust
-	shallow = true
-	registered = true
 [submodule "phylocanvas"]
 	path = phylocanvas
 	url = https://github.com/zachcp/phylocanvas
-	shallow = true
-	registered = true
 [submodule "phyloclim"]
 	path = phyloclim
 	url = https://github.com/heibl/phyloclim
-	shallow = true
-	registered = true
 [submodule "PHYLOGR"]
 	path = PHYLOGR
 	url = https://github.com/rdiaz02/PHYLOGR
-	shallow = true
-	registered = true
 [submodule "phylogram"]
 	path = phylogram
 	url = http://github.com/ropensci/phylogram
-	shallow = true
-	registered = true
 [submodule "phyloregion"]
 	path = phyloregion
 	url = https://github.com/darunabas/phyloregion
-	shallow = true
-	registered = true
 [submodule "phylosignal"]
 	path = phylosignal
 	url = https://github.com/fkeck/phylosignal
-	shallow = true
-	registered = true
 [submodule "phylotools"]
 	path = phylotools
 	url = https://github.com/helixcn/phylotools
-	shallow = true
-	registered = true
 [submodule "phyloTop"]
 	path = phyloTop
 	url = https://github.com/MichelleKendall/phyloTop
-	shallow = true
-	registered = true
 [submodule "picante"]
 	path = picante
 	url = https://github.com/skembel/picante
-	shallow = true
-	registered = true
 [submodule "Quartet"]
 	path = Quartet
 	url = https://github.com/ms609/Quartet
-	shallow = true
-	registered = true
 [submodule "RevGadgets"]
 	path = RevGadgets
 	url = https://github.com/revbayes/RevGadgets
-	shallow = true
-	registered = true
 [submodule "Revticulate"]
 	path = Revticulate
 	url = https://github.com/revbayes/Revticulate
-	shallow = true
-	registered = true
 [submodule "rncl"]
 	path = rncl
 	url = https://github.com/fmichonneau
-	shallow = true
-	registered = true
 [submodule "RNeXML"]
 	path = RNeXML
 	url = https://github.com/ropensci/RNeXML
-	shallow = true
-	registered = true
 [submodule "Rogue"]
 	path = Rogue
 	url = https://github.com/ms609/Rogue
-	shallow = true
-	registered = true
 [submodule "RPANDA"]
 	path = RPANDA
 	url = https://github.com/hmorlon/PANDA
-	shallow = true
-	registered = true
 [submodule "RRPP"]
 	path = RRPP
 	url = https://github.com/mlcollyer/RRPP
-	shallow = true
-	registered = true
 [submodule "strap"]
 	path = strap
 	url = https://github.com/graemetlloyd/strap
-	shallow = true
-	registered = true
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/ropensci/taxize
-	shallow = true
-	registered = true
 [submodule "TBRDist"]
 	path = TBRDist
 	url = https://github.com/ms609/TBRDist
-	shallow = true
-	registered = true
 [submodule "tidytree"]
 	path = tidytree
 	url = https://github.com/YuLab-SMU/tidytree
-	shallow = true
-	registered = true
 [submodule "tracerer"]
 	path = tracerer
 	url = https://github.com/ropensci/tracerer
-	shallow = true
-	registered = true
 [submodule "treebase"]
 	path = treebase
 	url = https://github.com/ropensci/treebase
-	shallow = true
-	registered = true
 [submodule "treedater"]
 	path = treedater
 	url = https://github.com/emvolz/treedater
-	shallow = true
-	registered = true
 [submodule "TreeDist"]
 	path = TreeDist
 	url = https://github.com/ms609/TreeDist
-	shallow = true
-	registered = true
 [submodule "treeducken"]
 	path = treeducken
 	url = https://github.com/wadedismukes/treeducken
-	shallow = true
-	registered = true
 [submodule "TreeSearch"]
 	path = TreeSearch
 	url = https://github.com/ms609/TreeSearch
-	shallow = true
-	registered = true
 [submodule "treespace"]
 	path = treespace
 	url = https://github.com/thibautjombart/treespace
-	shallow = true
-	registered = true
 [submodule "TreeTools"]
 	path = TreeTools
 	url = https://github.com/ms609/TreeTools
-	shallow = true
-	registered = true
 [submodule "vegan"]
 	path = vegan
 	url = https://github.com/vegandevs/vegan
-	shallow = true
-	registered = true
 [submodule "windex"]
 	path = windex
 	url = https://github.com/kevinarbuckle/windex
-	shallow = true
-	registered = true
 [submodule "restez"]
 	path = restez
 	url = https://github.com/ropensci/restez
-	shallow = true
 	registered = false
 [submodule "rfishbase"]
 	path = rfishbase
 	url = https://github.com/ropensci/rfishbase
-	shallow = true
 	registered = false
 [submodule "treeman"]
 	path = treeman
 	url = https://github.com/dombennett/treeman
-	shallow = true
 	registered = false
