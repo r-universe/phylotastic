@@ -338,10 +338,6 @@
 [submodule "windex"]
 	path = windex
 	url = https://github.com/kevinarbuckle/windex
-[submodule "restez"]
-	path = restez
-	url = https://github.com/ropensci/restez
-	registered = false
 [submodule "rfishbase"]
 	path = rfishbase
 	url = https://github.com/ropensci/rfishbase

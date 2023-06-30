@@ -6,12 +6,6 @@
     "from": "phangorn"
   },
   {
-    "package": "restez",
-    "url": "https://github.com/ropensci/restez",
-    "via": ["phylotaR"],
-    "from": "phylotaR"
-  },
-  {
     "package": "rfishbase",
     "url": "https://github.com/ropensci/rfishbase",
     "via": ["FishPhyloMaker"],
