@@ -16,11 +16,5 @@
     "url": "https://github.com/ropensci/rfishbase",
     "via": ["FishPhyloMaker"],
     "from": "FishPhyloMaker"
-  },
-  {
-    "package": "treeman",
-    "url": "https://github.com/dombennett/treeman",
-    "via": ["phylotaR"],
-    "from": "phylotaR"
   }
 ]

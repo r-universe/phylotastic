@@ -346,7 +346,3 @@
 	path = rfishbase
 	url = https://github.com/ropensci/rfishbase
 	registered = false
-[submodule "treeman"]
-	path = treeman
-	url = https://github.com/dombennett/treeman
-	registered = false
