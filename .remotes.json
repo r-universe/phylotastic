@@ -6,6 +6,12 @@
     "from": "phangorn"
   },
   {
+    "package": "gpclib",
+    "url": "https://github.com/rdpeng/gpclib",
+    "via": ["TreEvo"],
+    "from": "TreEvo"
+  },
+  {
     "package": "rfishbase",
     "url": "https://github.com/ropensci/rfishbase",
     "via": ["FishPhyloMaker"],

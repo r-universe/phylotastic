@@ -338,6 +338,10 @@
 [submodule "windex"]
 	path = windex
 	url = https://github.com/kevinarbuckle/windex
+[submodule "gpclib"]
+	path = gpclib
+	url = https://github.com/rdpeng/gpclib
+	registered = false
 [submodule "rfishbase"]
 	path = rfishbase
 	url = https://github.com/ropensci/rfishbase
