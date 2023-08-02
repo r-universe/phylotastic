@@ -2,192 +2,18 @@
 	path = .registry
 	url = https://github.com/phylotastic/phylotastic.r-universe.dev
 	branch = HEAD
-[submodule "phrapl"]
-	path = phrapl
-	url = https://github.com/bomeara/phrapl
-[submodule "dentist"]
-	path = dentist
-	url = https://github.com/bomeara/dentist
-[submodule "sisters"]
-	path = sisters
-	url = https://github.com/bomeara/sisters
-[submodule "hisse"]
-	path = hisse
-	url = https://github.com/thej022214/hisse
-[submodule "corHMM"]
-	path = corHMM
-	url = https://github.com/thej022214/corHMM
-[submodule "OUwie"]
-	path = OUwie
-	url = https://github.com/thej022214/OUwie
-[submodule "datelife"]
-	path = datelife
-	url = https://github.com/phylotastic/datelife
 [submodule "AnnotationBustR"]
 	path = AnnotationBustR
 	url = https://github.com/sborstein/AnnotationBustR
-[submodule "dietr"]
-	path = dietr
-	url = https://github.com/sborstein/dietr
-[submodule "MonoPhy"]
-	path = MonoPhy
-	url = https://github.com/oschwery/MonoPhy
-[submodule "BoskR"]
-	path = BoskR
-	url = https://github.com/oschwery/BoskR
-[submodule "selac"]
-	path = selac
-	url = https://github.com/bomeara/selac
-[submodule "TreEvo"]
-	path = TreEvo
-	url = https://github.com/bomeara/treevo
-[submodule "rphylotastic"]
-	path = rphylotastic
-	url = https://github.com/phylotastic/rphylotastic
-[submodule "flipped"]
-	path = flipped
-	url = https://github.com/bomeara/flipped
-[submodule "phylotaR"]
-	path = phylotaR
-	url = https://github.com/ropensci/phylotaR
-[submodule "closesamples"]
-	path = closesamples
-	url = https://github.com/bomeara/closesamples
-[submodule "BMhyb"]
-	path = BMhyb
-	url = https://github.com/bomeara/BMhyb
-[submodule "popularitree"]
-	path = popularitree
-	url = https://github.com/bomeara/popularitree
-[submodule "RateViz"]
-	path = RateViz
-	url = https://github.com/bomeara/RateViz
-[submodule "laser"]
-	path = laser
-	url = https://github.com/cran/laser
-[submodule "phybase"]
-	path = phybase
-	url = https://github.com/cran/phybase
-[submodule "P2C2M"]
-	path = P2C2M
-	url = https://github.com/cran/P2C2M
-[submodule "rotl"]
-	path = rotl
-	url = https://github.com/ropensci/rotl
-[submodule "extendedSurface"]
-	path = extendedSurface
-	url = https://github.com/mongiardino/extendedSurface
-[submodule "diversitree"]
-	path = diversitree
-	url = https://github.com/richfitz/diversitree
-[submodule "geiger"]
-	path = geiger
-	url = https://github.com/mwpennell/geiger-v2
-[submodule "phylobase"]
-	path = phylobase
-	url = https://github.com/fmichonneau/phylobase
-[submodule "phylocomr"]
-	path = phylocomr
-	url = https://github.com/ropensci/phylocomr
-[submodule "bayou"]
-	path = bayou
-	url = https://github.com/uyedaj/bayou
-[submodule "FishPhyloMaker"]
-	path = FishPhyloMaker
-	url = https://github.com/GabrielNakamura/FishPhyloMaker
-[submodule "FossilSim"]
-	path = FossilSim
-	url = https://github.com/fossilsim/fossilsim
-[submodule "RRphylo"]
-	path = RRphylo
-	url = https://github.com/pasraia/RRphylo
-[submodule "Rphylopars"]
-	path = Rphylopars
-	url = https://github.com/ericgoolsby/Rphylopars
-[submodule "TreePar"]
-	path = TreePar
-	url = https://github.com/tanja819/TreePar
-[submodule "TreeSim"]
-	path = TreeSim
-	url = https://github.com/tanja819/TreeSim
-[submodule "dispRity"]
-	path = dispRity
-	url = https://github.com/TGuillerme/dispRity
-[submodule "evobiR"]
-	path = evobiR
-	url = https://github.com/coleoguy/evobir
-[submodule "hillR"]
-	path = hillR
-	url = https://github.com/daijiang/hillR
-[submodule "hilldiv"]
-	path = hilldiv
-	url = https://github.com/anttonalberdi/hilldiv
-[submodule "nichevol"]
-	path = nichevol
-	url = https://github.com/marlonecobos/nichevol
-[submodule "nodeSub"]
-	path = nodeSub
-	url = https://github.com/thijsjanzen/nodeSub
-[submodule "pmc"]
-	path = pmc
-	url = https://github.com/cboettig/pmc
-[submodule "ratematrix"]
-	path = ratematrix
-	url = https://github.com/Caetanods/ratematrix
-[submodule "secsse"]
-	path = secsse
-	url = https://github.com/rsetienne/secsse
-[submodule "sensiPhy"]
-	path = sensiPhy
-	url = https://github.com/paternogbc/sensiPhy
-[submodule "treedata.table"]
-	path = treedata.table
-	url = https://github.com/ropensci/treedata.table
-[submodule "treeplyr"]
-	path = treeplyr
-	url = https://github.com/uyedaj/treeplyr
-[submodule "phangorn"]
-	path = phangorn
-	url = https://github.com/KlausVigo/phangorn
-[submodule "phylolm"]
-	path = phylolm
-	url = https://github.com/lamho86/phylolm
-[submodule "phytools"]
-	path = phytools
-	url = https://github.com/liamrevell/phytools
-[submodule "ape"]
-	path = ape
-	url = https://github.com/emmanuelparadis/ape
-[submodule "adephylo"]
-	path = adephylo
-	url = https://github.com/thibautjombart/adephylo
-[submodule "apex"]
-	path = apex
-	url = https://github.com/thibautjombart/apex
-[submodule "aphid"]
-	path = aphid
-	url = https://github.com/shaunpwilkinson/aphid
-[submodule "aphylo"]
-	path = aphylo
-	url = https://github.com/USCbiostats/aphylo
 [submodule "BAMMtools"]
 	path = BAMMtools
 	url = https://github.com/macroevolution/bammtools/tree/master/BAMMtools
-[submodule "beastier"]
-	path = beastier
-	url = https://github.com/ropensci/beastier
-[submodule "beautier"]
-	path = beautier
-	url = https://github.com/ropensci/beautier
-[submodule "brms"]
-	path = brms
-	url = https://github.com/paul-buerkner/brms
-[submodule "bppr"]
-	path = bppr
-	url = https://github.com/dosreislab/bppr
-[submodule "brranching"]
-	path = brranching
-	url = https://github.com/ropensci/brranching
+[submodule "BMhyb"]
+	path = BMhyb
+	url = https://github.com/bomeara/BMhyb
+[submodule "BoskR"]
+	path = BoskR
+	url = https://github.com/oschwery/BoskR
 [submodule "CALANGO"]
 	path = CALANGO
 	url = https://github.com/LABpackages/CALANGO
@@ -197,114 +23,299 @@
 [submodule "DAMOCLES"]
 	path = DAMOCLES
 	url = https://github.com/rsetienne/DAMOCLES
-[submodule "deeptime"]
-	path = deeptime
-	url = https://williamgearty.com/deeptime
-[submodule "dendextend"]
-	path = dendextend
-	url = https://github.com/talgalili/dendextend
-[submodule "entropart"]
-	path = entropart
-	url = https://github.com/EricMarcon/entropart
-[submodule "epm"]
-	path = epm
-	url = https://github.com/ptitle/epm
 [submodule "EvoPhylo"]
 	path = EvoPhylo
 	url = https://github.com/tiago-simoes/EvoPhylo
-[submodule "geomorph"]
-	path = geomorph
-	url = https://github.com/geomorphR/geomorph
-[submodule "idendr0"]
-	path = idendr0
-	url = http://github.com/tsieger/idendr0
-[submodule "ips"]
-	path = ips
-	url = https://github.com/heibl/ips
-[submodule "mcmc3r"]
-	path = mcmc3r
-	url = https://github.com/dosreislab/mcmc3r
+[submodule "FishPhyloMaker"]
+	path = FishPhyloMaker
+	url = https://github.com/GabrielNakamura/FishPhyloMaker
+[submodule "FossilSim"]
+	path = FossilSim
+	url = https://github.com/fossilsim/fossilsim
 [submodule "MCMCglmm"]
 	path = MCMCglmm
 	url = https://github.com/jarrodhadfield/MCMCglmm
-[submodule "mvMORPH"]
-	path = mvMORPH
-	url = https://github.com/JClavel/mvMORPH
-[submodule "ouch"]
-	path = ouch
-	url = https://github.com/kingaa/ouch
-[submodule "paleobuddy"]
-	path = paleobuddy
-	url = https://github.com/brpetrucci/paleobuddy
-[submodule "paleotree"]
-	path = paleotree
-	url = https://github.com/dwbapst/paleotree
-[submodule "paleoTS"]
-	path = paleoTS
-	url = https://github.com/cran/paleoTS
-[submodule "phyclust"]
-	path = phyclust
-	url = https://github.com/snoweye/phyclust
-[submodule "phylocanvas"]
-	path = phylocanvas
-	url = https://github.com/zachcp/phylocanvas
-[submodule "phyloclim"]
-	path = phyloclim
-	url = https://github.com/heibl/phyloclim
+[submodule "MonoPhy"]
+	path = MonoPhy
+	url = https://github.com/oschwery/MonoPhy
+[submodule "OUwie"]
+	path = OUwie
+	url = https://github.com/thej022214/OUwie
+[submodule "P2C2M"]
+	path = P2C2M
+	url = https://github.com/cran/P2C2M
 [submodule "PHYLOGR"]
 	path = PHYLOGR
 	url = https://github.com/rdiaz02/PHYLOGR
-[submodule "phylogram"]
-	path = phylogram
-	url = http://github.com/ropensci/phylogram
-[submodule "phyloregion"]
-	path = phyloregion
-	url = https://github.com/darunabas/phyloregion
-[submodule "phylosignal"]
-	path = phylosignal
-	url = https://github.com/fkeck/phylosignal
-[submodule "phylotools"]
-	path = phylotools
-	url = https://github.com/helixcn/phylotools
-[submodule "phyloTop"]
-	path = phyloTop
-	url = https://github.com/MichelleKendall/phyloTop
-[submodule "picante"]
-	path = picante
-	url = https://github.com/skembel/picante
 [submodule "Quartet"]
 	path = Quartet
 	url = https://github.com/ms609/Quartet
-[submodule "RevGadgets"]
-	path = RevGadgets
-	url = https://github.com/revbayes/RevGadgets
-[submodule "Revticulate"]
-	path = Revticulate
-	url = https://github.com/revbayes/Revticulate
-[submodule "rncl"]
-	path = rncl
-	url = https://github.com/fmichonneau
 [submodule "RNeXML"]
 	path = RNeXML
 	url = https://github.com/ropensci/RNeXML
-[submodule "Rogue"]
-	path = Rogue
-	url = https://github.com/ms609/Rogue
 [submodule "RPANDA"]
 	path = RPANDA
 	url = https://github.com/hmorlon/PANDA
 [submodule "RRPP"]
 	path = RRPP
 	url = https://github.com/mlcollyer/RRPP
+[submodule "RRphylo"]
+	path = RRphylo
+	url = https://github.com/pasraia/RRphylo
+[submodule "RateViz"]
+	path = RateViz
+	url = https://github.com/bomeara/RateViz
+[submodule "RevGadgets"]
+	path = RevGadgets
+	url = https://github.com/revbayes/RevGadgets
+[submodule "Revticulate"]
+	path = Revticulate
+	url = https://github.com/revbayes/Revticulate
+[submodule "Rogue"]
+	path = Rogue
+	url = https://github.com/ms609/Rogue
+[submodule "Rphylopars"]
+	path = Rphylopars
+	url = https://github.com/ericgoolsby/Rphylopars
+[submodule "TBRDist"]
+	path = TBRDist
+	url = https://github.com/ms609/TBRDist
+[submodule "TreEvo"]
+	path = TreEvo
+	url = https://github.com/bomeara/treevo
+[submodule "TreeDist"]
+	path = TreeDist
+	url = https://github.com/ms609/TreeDist
+[submodule "TreePar"]
+	path = TreePar
+	url = https://github.com/tanja819/TreePar
+[submodule "TreeSearch"]
+	path = TreeSearch
+	url = https://github.com/ms609/TreeSearch
+[submodule "TreeSim"]
+	path = TreeSim
+	url = https://github.com/tanja819/TreeSim
+[submodule "TreeTools"]
+	path = TreeTools
+	url = https://github.com/ms609/TreeTools
+[submodule "adephylo"]
+	path = adephylo
+	url = https://github.com/thibautjombart/adephylo
+[submodule "ape"]
+	path = ape
+	url = https://github.com/emmanuelparadis/ape
+[submodule "apex"]
+	path = apex
+	url = https://github.com/thibautjombart/apex
+[submodule "aphid"]
+	path = aphid
+	url = https://github.com/shaunpwilkinson/aphid
+[submodule "aphylo"]
+	path = aphylo
+	url = https://github.com/USCbiostats/aphylo
+[submodule "bayou"]
+	path = bayou
+	url = https://github.com/uyedaj/bayou
+[submodule "beastier"]
+	path = beastier
+	url = https://github.com/ropensci/beastier
+[submodule "beautier"]
+	path = beautier
+	url = https://github.com/ropensci/beautier
+[submodule "bppr"]
+	path = bppr
+	url = https://github.com/dosreislab/bppr
+[submodule "brms"]
+	path = brms
+	url = https://github.com/paul-buerkner/brms
+[submodule "brranching"]
+	path = brranching
+	url = https://github.com/ropensci/brranching
+[submodule "closesamples"]
+	path = closesamples
+	url = https://github.com/bomeara/closesamples
+[submodule "corHMM"]
+	path = corHMM
+	url = https://github.com/thej022214/corHMM
+[submodule "datelife"]
+	path = datelife
+	url = https://github.com/phylotastic/datelife
+[submodule "deeptime"]
+	path = deeptime
+	url = https://williamgearty.com/deeptime
+[submodule "dendextend"]
+	path = dendextend
+	url = https://github.com/talgalili/dendextend
+[submodule "dentist"]
+	path = dentist
+	url = https://github.com/bomeara/dentist
+[submodule "dietr"]
+	path = dietr
+	url = https://github.com/sborstein/dietr
+[submodule "dispRity"]
+	path = dispRity
+	url = https://github.com/TGuillerme/dispRity
+[submodule "diversitree"]
+	path = diversitree
+	url = https://github.com/richfitz/diversitree
+[submodule "entropart"]
+	path = entropart
+	url = https://github.com/EricMarcon/entropart
+[submodule "epm"]
+	path = epm
+	url = https://github.com/ptitle/epm
+[submodule "evobiR"]
+	path = evobiR
+	url = https://github.com/coleoguy/evobir
+[submodule "extendedSurface"]
+	path = extendedSurface
+	url = https://github.com/mongiardino/extendedSurface
+[submodule "flipped"]
+	path = flipped
+	url = https://github.com/bomeara/flipped
+[submodule "geiger"]
+	path = geiger
+	url = https://github.com/mwpennell/geiger-v2
+[submodule "geomorph"]
+	path = geomorph
+	url = https://github.com/geomorphR/geomorph
+[submodule "gpclib"]
+	path = gpclib
+	url = https://github.com/rdpeng/gpclib
+	registered = false
+[submodule "hillR"]
+	path = hillR
+	url = https://github.com/daijiang/hillR
+[submodule "hilldiv"]
+	path = hilldiv
+	url = https://github.com/anttonalberdi/hilldiv
+[submodule "hisse"]
+	path = hisse
+	url = https://github.com/thej022214/hisse
+[submodule "idendr0"]
+	path = idendr0
+	url = http://github.com/tsieger/idendr0
+[submodule "ips"]
+	path = ips
+	url = https://github.com/heibl/ips
+[submodule "laser"]
+	path = laser
+	url = https://github.com/cran/laser
+[submodule "mcmc3r"]
+	path = mcmc3r
+	url = https://github.com/dosreislab/mcmc3r
+[submodule "mvMORPH"]
+	path = mvMORPH
+	url = https://github.com/JClavel/mvMORPH
+[submodule "nichevol"]
+	path = nichevol
+	url = https://github.com/marlonecobos/nichevol
+[submodule "nodeSub"]
+	path = nodeSub
+	url = https://github.com/thijsjanzen/nodeSub
+[submodule "ouch"]
+	path = ouch
+	url = https://github.com/kingaa/ouch
+[submodule "paleoTS"]
+	path = paleoTS
+	url = https://github.com/cran/paleoTS
+[submodule "paleobuddy"]
+	path = paleobuddy
+	url = https://github.com/brpetrucci/paleobuddy
+[submodule "paleotree"]
+	path = paleotree
+	url = https://github.com/dwbapst/paleotree
+[submodule "phangorn"]
+	path = phangorn
+	url = https://github.com/KlausVigo/phangorn
+[submodule "phrapl"]
+	path = phrapl
+	url = https://github.com/bomeara/phrapl
+[submodule "phybase"]
+	path = phybase
+	url = https://github.com/cran/phybase
+[submodule "phyclust"]
+	path = phyclust
+	url = https://github.com/snoweye/phyclust
+[submodule "phyloTop"]
+	path = phyloTop
+	url = https://github.com/MichelleKendall/phyloTop
+[submodule "phylobase"]
+	path = phylobase
+	url = https://github.com/fmichonneau/phylobase
+[submodule "phylocanvas"]
+	path = phylocanvas
+	url = https://github.com/zachcp/phylocanvas
+[submodule "phyloclim"]
+	path = phyloclim
+	url = https://github.com/heibl/phyloclim
+[submodule "phylocomr"]
+	path = phylocomr
+	url = https://github.com/ropensci/phylocomr
+[submodule "phylogram"]
+	path = phylogram
+	url = http://github.com/ropensci/phylogram
+[submodule "phylolm"]
+	path = phylolm
+	url = https://github.com/lamho86/phylolm
+[submodule "phyloregion"]
+	path = phyloregion
+	url = https://github.com/darunabas/phyloregion
+[submodule "phylosignal"]
+	path = phylosignal
+	url = https://github.com/fkeck/phylosignal
+[submodule "phylotaR"]
+	path = phylotaR
+	url = https://github.com/ropensci/phylotaR
+[submodule "phylotools"]
+	path = phylotools
+	url = https://github.com/helixcn/phylotools
+[submodule "phytools"]
+	path = phytools
+	url = https://github.com/liamrevell/phytools
+[submodule "picante"]
+	path = picante
+	url = https://github.com/skembel/picante
+[submodule "pmc"]
+	path = pmc
+	url = https://github.com/cboettig/pmc
+[submodule "popularitree"]
+	path = popularitree
+	url = https://github.com/bomeara/popularitree
+[submodule "ratematrix"]
+	path = ratematrix
+	url = https://github.com/Caetanods/ratematrix
+[submodule "rfishbase"]
+	path = rfishbase
+	url = https://github.com/ropensci/rfishbase
+	registered = false
+[submodule "rncl"]
+	path = rncl
+	url = https://github.com/fmichonneau
+[submodule "rotl"]
+	path = rotl
+	url = https://github.com/ropensci/rotl
+[submodule "rphylotastic"]
+	path = rphylotastic
+	url = https://github.com/phylotastic/rphylotastic
+[submodule "secsse"]
+	path = secsse
+	url = https://github.com/rsetienne/secsse
+[submodule "selac"]
+	path = selac
+	url = https://github.com/bomeara/selac
+[submodule "sensiPhy"]
+	path = sensiPhy
+	url = https://github.com/paternogbc/sensiPhy
+[submodule "sisters"]
+	path = sisters
+	url = https://github.com/bomeara/sisters
 [submodule "strap"]
 	path = strap
 	url = https://github.com/graemetlloyd/strap
 [submodule "taxize"]
 	path = taxize
 	url = https://github.com/ropensci/taxize
-[submodule "TBRDist"]
-	path = TBRDist
-	url = https://github.com/ms609/TBRDist
 [submodule "tidytree"]
 	path = tidytree
 	url = https://github.com/YuLab-SMU/tidytree
@@ -314,35 +325,24 @@
 [submodule "treebase"]
 	path = treebase
 	url = https://github.com/ropensci/treebase
+[submodule "treedata.table"]
+	path = treedata.table
+	url = https://github.com/ropensci/treedata.table
 [submodule "treedater"]
 	path = treedater
 	url = https://github.com/emvolz/treedater
-[submodule "TreeDist"]
-	path = TreeDist
-	url = https://github.com/ms609/TreeDist
 [submodule "treeducken"]
 	path = treeducken
 	url = https://github.com/wadedismukes/treeducken
-[submodule "TreeSearch"]
-	path = TreeSearch
-	url = https://github.com/ms609/TreeSearch
+[submodule "treeplyr"]
+	path = treeplyr
+	url = https://github.com/uyedaj/treeplyr
 [submodule "treespace"]
 	path = treespace
 	url = https://github.com/thibautjombart/treespace
-[submodule "TreeTools"]
-	path = TreeTools
-	url = https://github.com/ms609/TreeTools
 [submodule "vegan"]
 	path = vegan
 	url = https://github.com/vegandevs/vegan
 [submodule "windex"]
 	path = windex
 	url = https://github.com/kevinarbuckle/windex
-[submodule "gpclib"]
-	path = gpclib
-	url = https://github.com/rdpeng/gpclib
-	registered = false
-[submodule "rfishbase"]
-	path = rfishbase
-	url = https://github.com/ropensci/rfishbase
-	registered = false
