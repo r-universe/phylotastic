@@ -1,5 +1,11 @@
 [
   {
+    "package": "TreeDist",
+    "url": "https://github.com/ms609/TreeDist",
+    "via": ["TreeSearch"],
+    "from": "TreeSearch"
+  },
+  {
     "package": "TreeTools",
     "url": "https://github.com/ms609/TreeTools",
     "via": ["TreeSearch"],
