@@ -1,5 +1,11 @@
 [
   {
+    "package": "TreeTools",
+    "url": "https://github.com/ms609/TreeTools",
+    "via": ["TreeSearch"],
+    "from": "TreeSearch"
+  },
+  {
     "package": "ape",
     "url": "https://github.com/emmanuelparadis/ape",
     "via": ["phangorn"],
