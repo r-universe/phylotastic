@@ -1,11 +1,5 @@
 [
   {
-    "package": "TreeDist",
-    "url": "https://github.com/ms609/TreeDist",
-    "via": ["TreeSearch"],
-    "from": "TreeSearch"
-  },
-  {
     "package": "ape",
     "url": "https://github.com/emmanuelparadis/ape",
     "via": ["phangorn"],
