@@ -1,5 +1,11 @@
 [
   {
+    "package": "ape",
+    "url": "https://github.com/EmmanuelParadis/ape",
+    "via": ["phangorn"],
+    "from": "phangorn"
+  },
+  {
     "package": "apex",
     "url": "https://github.com/KlausVigo/apex",
     "via": ["phangorn"],
