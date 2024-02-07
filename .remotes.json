@@ -6,12 +6,6 @@
     "from": "phangorn"
   },
   {
-    "package": "apex",
-    "url": "https://github.com/KlausVigo/apex",
-    "via": ["phangorn"],
-    "from": "phangorn"
-  },
-  {
     "package": "gpclib",
     "url": "https://github.com/rdpeng/gpclib",
     "via": ["TreEvo"],
