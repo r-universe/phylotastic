@@ -7,7 +7,8 @@
 	url = https://github.com/sborstein/AnnotationBustR
 [submodule "BAMMtools"]
 	path = BAMMtools
-	url = https://github.com/macroevolution/bammtools/tree/master/BAMMtools
+	url = https://github.com/macroevolution/bammtools
+	subdir = BAMMtools
 [submodule "BMhyb"]
 	path = BMhyb
 	url = https://github.com/bomeara/BMhyb
@@ -142,7 +143,7 @@
 	url = https://github.com/phylotastic/datelife
 [submodule "deeptime"]
 	path = deeptime
-	url = https://williamgearty.com/deeptime
+	url = https://github.com/willgearty/deeptime
 [submodule "dendextend"]
 	path = dendextend
 	url = https://github.com/talgalili/dendextend
@@ -291,7 +292,7 @@
 	registered = false
 [submodule "rncl"]
 	path = rncl
-	url = https://github.com/fmichonneau
+	url = https://github.com/fmichonneau/rncl
 [submodule "rotl"]
 	path = rotl
 	url = https://github.com/ropensci/rotl
