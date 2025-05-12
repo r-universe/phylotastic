@@ -1,11 +1,5 @@
 [
   {
-    "package": "TreeTools",
-    "url": "https://github.com/ms609/TreeTools",
-    "via": ["TreeDist"],
-    "from": "TreeDist"
-  },
-  {
     "package": "ape",
     "url": "https://github.com/emmanuelparadis/ape",
     "via": ["phangorn"],
