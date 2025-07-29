@@ -1,5 +1,11 @@
 [
   {
+    "package": "TreeTools",
+    "url": "https://github.com/ms609/TreeTools",
+    "via": ["TreeSearch"],
+    "from": "TreeSearch"
+  },
+  {
     "package": "gpclib",
     "url": "https://github.com/rdpeng/gpclib",
     "via": ["TreEvo"],
