@@ -2,6 +2,12 @@
   {
     "package": "TreeTools",
     "url": "https://github.com/ms609/TreeTools",
+    "via": ["TreeDist"],
+    "from": "TreeDist"
+  },
+  {
+    "package": "TreeTools",
+    "url": "https://github.com/ms609/TreeTools",
     "via": ["TreeSearch"],
     "from": "TreeSearch"
   },
