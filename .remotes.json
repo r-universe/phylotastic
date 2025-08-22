@@ -1,11 +1,5 @@
 [
   {
-    "package": "TreeTools",
-    "url": "https://github.com/ms609/TreeTools",
-    "via": ["TreeDist"],
-    "from": "TreeDist"
-  },
-  {
     "package": "gpclib",
     "url": "https://github.com/rdpeng/gpclib",
     "via": ["TreEvo"],
