@@ -102,6 +102,9 @@
 [submodule "adephylo"]
 	path = adephylo
 	url = https://github.com/thibautjombart/adephylo
+[submodule "apTreeshape"]
+	path = apTreeshape
+	url = https://github.com/cran/apTreeshape
 [submodule "ape"]
 	path = ape
 	url = https://github.com/emmanuelparadis/ape
@@ -123,6 +126,9 @@
 [submodule "beautier"]
 	path = beautier
 	url = https://github.com/ropensci/beautier
+[submodule "bold"]
+	path = bold
+	url = https://github.com/ropensci/bold
 [submodule "bppr"]
 	path = bppr
 	url = https://github.com/dosreislab/bppr
