@@ -186,10 +186,6 @@
 [submodule "geomorph"]
 	path = geomorph
 	url = https://github.com/geomorphR/geomorph
-[submodule "gpclib"]
-	path = gpclib
-	url = https://github.com/rdpeng/gpclib
-	registered = false
 [submodule "hillR"]
 	path = hillR
 	url = https://github.com/daijiang/hillR
@@ -292,10 +288,6 @@
 [submodule "ratematrix"]
 	path = ratematrix
 	url = https://github.com/Caetanods/ratematrix
-[submodule "rfishbase"]
-	path = rfishbase
-	url = https://github.com/ropensci/rfishbase
-	registered = false
 [submodule "rncl"]
 	path = rncl
 	url = https://github.com/fmichonneau/rncl
